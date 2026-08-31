@@ -1,1 +1,1 @@
-pip install pyautogui python-telegram-bot
+pip install pyautogui python-telegram-bot pillow
